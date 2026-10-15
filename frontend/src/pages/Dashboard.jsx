@@ -20,7 +20,12 @@ function Dashboard() {
   const [candidates, setCandidates] = useState([]);
   const [loading, setLoading] = useState(true);
 
+  // Fetch candidates from the backend when the component mounts 
+
   // Fetch real candidates from database
+
+
+  
   useEffect(() => {
     fetchCandidates();
   }, []);

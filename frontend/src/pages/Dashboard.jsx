@@ -250,7 +250,9 @@ function Dashboard() {
 
           ) : (
 
-            /* Candidate List */
+            
+
+            // =================Candidate List================
 
             <div className="candidate-list">
 

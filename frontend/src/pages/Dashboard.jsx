@@ -41,9 +41,11 @@ function Dashboard() {
     }
   };
 
-  // -----------------------------
-  // Dynamic Dashboard Statistics
-  // -----------------------------
+
+// ========================================
+  //===================== DYNAMIC DASHBOARD STATICS =================
+// ========================================
+
 
   const totalCandidates = candidates.length;
 

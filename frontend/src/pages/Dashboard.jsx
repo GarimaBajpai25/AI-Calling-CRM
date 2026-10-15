@@ -225,7 +225,7 @@ function Dashboard() {
             </div>
           ) : recentCandidates.length === 0 ? (
 
-            /* No candidates */
+            // =============No Candidates State  means empty state===============================
 
             <div className="empty-state">
 
